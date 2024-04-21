@@ -1,0 +1,29 @@
+h1{
+    text-align: center;
+    color: 898888;
+    font-family: fantasy;
+    background-color: rgb(250, 213, 219);
+}
+
+.centered {
+    text-align: center;
+}
+
+p {
+    color: rgb(88, 87, 86);
+    font-size: 15px;
+  }
+
+ Title{
+    color: gray;
+ }
+
+
+
+.header{
+    background-color: pink;
+}
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: 898888;
+}
